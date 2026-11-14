@@ -1,13 +1,13 @@
-# Little Sprout 🌱
+# Gaia Garden 🌱
 
-A small, friendly gardening website with a daily task checklist and an easy-care plant tip. The checklist saves its state in your browser.
+A friendly, responsive gardening website with a daily task planner, searchable plant guide, seasonal tips, and links to trusted gardening resources.
 
 ## Open the website
 
-Once GitHub Pages is enabled for this repository, visit:
+After GitHub Pages is enabled for this repository, the public site URL will be:
 
 **https://daphne22-png.github.io/Gaia/**
 
-To enable it, open **Settings → Pages** and choose **Deploy from a branch**, select `main` and `/ (root)`, then save. GitHub will publish the site at the link above (it may take a minute or two the first time).
+To publish it, go to **Settings → Pages**, choose **Deploy from a branch**, select branch `main` and folder `/ (root)`, then save. GitHub will build and publish the site; the first deployment can take a few minutes. The Pages link works once that deployment has completed.
 
-You can also preview it locally by opening `index.html` in a browser.
+For a quick preview, open `index.html` in a web browser. Your task list is saved locally in the browser you use.
